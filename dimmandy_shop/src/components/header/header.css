@@ -1,0 +1,32 @@
+.header {
+    height: 70px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 25px;
+    background-color: grey;
+    /* margin: 0 50px; */
+    
+}
+.header .logo-container {
+    height: 100%;
+    width: 70px;
+    padding: 25px;
+}
+.header .options {
+    width: 50%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    padding: 0 40px;
+}
+.header .options .option {
+    padding: 10px 20px;
+    color: white;
+    cursor: pointer;
+} 
+a{
+    color: white;
+    padding: 10px 20px;
+}
