@@ -6,20 +6,20 @@ const SHOP_DATA = [
         items: [
           {
             id: 18,
-            name: 'Black Jean Shearling',
-            imageUrl: 'https://i.ibb.co/XzcwL5s/black-shearling.png',
+            name: 'Casual Male Dress',
+            imageUrl: 'https://images.yaoota.com/UqkPjPeiNO045v2mK2hVgc5G8w8=/trim/yaootaweb-production-ng/media/crawledproductimages/47531a9b4ad3418b6be28c57c35fb17fa5ff96c3.jpg',
             price: '10,000'
           },
           {
             id: 19,
-            name: 'Blue Jean Jacket',
-            imageUrl: 'https://i.ibb.co/mJS6vz0/blue-jean-jacket.png',
+            name: 'Long-Sleeved T-shirt',
+            imageUrl: 'https://www-konga-com-res.cloudinary.com/w_auto,f_auto,fl_lossy,dpr_auto,q_auto/media/catalog/product/R/W/150876_1555943305.jpg',
             price: '10,000'
           },
           {
             id: 20,
-            name: 'Grey Jean Jacket',
-            imageUrl: 'https://i.ibb.co/N71k1ML/grey-jean-jacket.png',
+            name: 'Long-Sleeved T-shirt',
+            imageUrl: 'https://www.nairaland.com/attachments/9108731_4c2_jpeg3d5aada013970e9df4e7dbecbde20463',
             price: '10,000'
           },
           {
